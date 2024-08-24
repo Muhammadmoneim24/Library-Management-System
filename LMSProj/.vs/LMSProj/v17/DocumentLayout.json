@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3F375-4A21-49F0-A010-EE50DE172BF5}|LMSProj\\LMSProj.csproj|e:\\depi\\c#\\windows form\\lmsproj\\lmsproj\\book_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3F375-4A21-49F0-A010-EE50DE172BF5}|LMSProj\\LMSProj.csproj|solutionrelative:lmsproj\\book_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3F375-4A21-49F0-A010-EE50DE172BF5}|LMSProj\\LMSProj.csproj|e:\\depi\\c#\\windows form\\lmsproj\\lmsproj\\book_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3F375-4A21-49F0-A010-EE50DE172BF5}|LMSProj\\LMSProj.csproj|solutionrelative:lmsproj\\book_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3F375-4A21-49F0-A010-EE50DE172BF5}|LMSProj\\LMSProj.csproj|e:\\depi\\c#\\windows form\\lmsproj\\lmsproj\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3F375-4A21-49F0-A010-EE50DE172BF5}|LMSProj\\LMSProj.csproj|solutionrelative:lmsproj\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3F375-4A21-49F0-A010-EE50DE172BF5}|LMSProj\\LMSProj.csproj|e:\\depi\\c#\\windows form\\lmsproj\\lmsproj\\borrowing_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3F375-4A21-49F0-A010-EE50DE172BF5}|LMSProj\\LMSProj.csproj|solutionrelative:lmsproj\\borrowing_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book_Services.cs",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\LMSProj\\Book_Services.cs",
+              "RelativeDocumentMoniker": "LMSProj\\Book_Services.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\LMSProj\\Book_Services.cs",
+              "RelativeToolTip": "LMSProj\\Book_Services.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAuwJMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:24:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book_Manage.cs",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\LMSProj\\Book_Manage.cs",
+              "RelativeDocumentMoniker": "LMSProj\\Book_Manage.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\LMSProj\\Book_Manage.cs",
+              "RelativeToolTip": "LMSProj\\Book_Manage.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwNoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:24:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report.cs",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\LMSProj\\Report.cs",
+              "RelativeDocumentMoniker": "LMSProj\\Report.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\LMSProj\\Report.cs",
+              "RelativeToolTip": "LMSProj\\Report.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAkwAkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:21:46.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrowing_Manage.cs",
+              "DocumentMoniker": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\LMSProj\\Borrowing_Manage.cs",
+              "RelativeDocumentMoniker": "LMSProj\\Borrowing_Manage.cs",
+              "ToolTip": "E:\\DEPI\\C#\\Windows Form\\LMSProj\\LMSProj\\Borrowing_Manage.cs",
+              "RelativeToolTip": "LMSProj\\Borrowing_Manage.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAwwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:14:47.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
