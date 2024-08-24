@@ -1,2 +1,2 @@
 # Library-Management-System
-Library Management System
+The Library Management System project is a C# application utilizing ADO.NET for database operations to manage books, members, and borrowing/returning processes. The system features comprehensive book and member management, borrowing and returning functionality, and reporting capabilities. The project emphasizes data validation, error handling, and secure database interaction through parameterized queries and user-friendly interfaces.
